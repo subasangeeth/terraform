@@ -7,6 +7,3 @@
 >The terraform will log the address of bucket to access the static website.
 
 
-##############
-## SANGEETH ##
-##############          
